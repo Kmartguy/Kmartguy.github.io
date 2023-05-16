@@ -1,3 +1,3 @@
-
-var a = "hello";
-document.getElementById("text").innerHTML = a;
+var myfunction = function {
+    console.log("hello world!");
+}
